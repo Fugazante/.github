@@ -21,6 +21,8 @@
 
 <!-- What tests were added or changed (unit, E2E), and how were they run? -->
 
+<!-- If something is expected to happen after the merge (a deploy, a release, a scheduled job), how do we verify it? -->
+
 #### Screenshots (Optional)
 
 <!-- For front-end changes, include screenshots or a video of the changes. -->
